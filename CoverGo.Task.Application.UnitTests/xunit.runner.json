@@ -1,0 +1,8 @@
+{
+  "methodDisplay": "method",
+  "diagnosticMessages": true,
+  "parallelizeAssembly": true,
+  "parallelizeTestCollections": true,
+  "maxParallelThreads": 8,
+  "stopOnFail": false
+}
